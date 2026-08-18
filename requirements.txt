@@ -1,0 +1,16 @@
+datasets
+evaluate
+gensim
+ipykernel
+jupyterlab
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+spacy
+torch
+tqdm
+transformers
