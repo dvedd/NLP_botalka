@@ -1,2 +1,6 @@
 AGENTS.md
 venv
+__pycache__
+data/ext
+data/proc
+data/raw
